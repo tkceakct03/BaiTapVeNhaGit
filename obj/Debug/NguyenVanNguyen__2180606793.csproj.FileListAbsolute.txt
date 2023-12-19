@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\NguyenVanNguyen__2180606793\bin\Debug\NguyenVanNguyen__2180606793.exe.config
+C:\Users\ASUS\source\repos\NguyenVanNguyen__2180606793\bin\Debug\NguyenVanNguyen__2180606793.exe
+C:\Users\ASUS\source\repos\NguyenVanNguyen__2180606793\bin\Debug\NguyenVanNguyen__2180606793.pdb
+C:\Users\ASUS\source\repos\NguyenVanNguyen__2180606793\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\NguyenVanNguyen__2180606793\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\NguyenVanNguyen__2180606793\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\NguyenVanNguyen__2180606793\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\NguyenVanNguyen__2180606793\obj\Debug\NguyenVanNguyen__2180606793.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\NguyenVanNguyen__2180606793\obj\Debug\NguyenVanNguyen__2180606793.FrmQuanLyThuVien.resources
+C:\Users\ASUS\source\repos\NguyenVanNguyen__2180606793\obj\Debug\NguyenVanNguyen__2180606793.Properties.Resources.resources
+C:\Users\ASUS\source\repos\NguyenVanNguyen__2180606793\obj\Debug\NguyenVanNguyen__2180606793.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\NguyenVanNguyen__2180606793\obj\Debug\NguyenVanNguyen__2180606793.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\NguyenVanNguyen__2180606793\obj\Debug\NguyenVanNguyen__2180606793.csproj.CopyComplete
+C:\Users\ASUS\source\repos\NguyenVanNguyen__2180606793\obj\Debug\NguyenVanNguyen__2180606793.exe
+C:\Users\ASUS\source\repos\NguyenVanNguyen__2180606793\obj\Debug\NguyenVanNguyen__2180606793.pdb
